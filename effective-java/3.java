@@ -1,4 +1,5 @@
-public class Elvais {
+// private 생성자나 열거 타입으로 싱글턴임을 보증하라
+public class Elvis {
 
   public static final Elvis INSTANCE = new Elvis();
 
